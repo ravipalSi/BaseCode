@@ -5721,8 +5721,12 @@
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
+<<<<<<< HEAD
+        "/Users/apple/.nuget/NuGet/NuGet.Config"
+=======
         "C:\\Users\\harsharan\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+>>>>>>> e808ed46b8add6c3b84627b217b6757d671a76f0
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
