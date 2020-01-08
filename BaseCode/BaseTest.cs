@@ -24,10 +24,17 @@ namespace BaseCode
         {
             Assert.Fail();
         }
+
         [Test]
         public void TestZone()
         {
             Assert.True(true);
-}
+        }
+
+        [Test]
+        public void TestFailedZone()
+        {
+            Assert.False(true);
+        }
     }
 }
