@@ -10,7 +10,7 @@ namespace BaseCode
         public void Setup()
         {
             IWebDriver driver = new ChromeDriver();
-            driver.Navigate().GoToUrl();
+            driver.Navigate().GoToUrl("https://www.google.com");
         }
 
         [Test]
