@@ -18,5 +18,11 @@ namespace BaseCode
         {
             Assert.Pass();
         }
+
+        [Test]
+        public void TestFail()
+        {
+            Assert.Fail();
+        }
     }
 }
