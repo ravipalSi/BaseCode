@@ -2,3 +2,4 @@
 # exclude everything
 BaseCode/bin/*
 BaseCode/obj/*
+.vs/*
