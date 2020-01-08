@@ -6,10 +6,13 @@ namespace BaseCode
 {
     public class BaseTest
     {
+
+        IWebDriver driver;
+
         [SetUp]
         public void Setup()
         {
-            IWebDriver driver = new ChromeDriver();
+            driver = new ChromeDriver();
             driver.Navigate().GoToUrl("https://www.google.com");
         }
 
@@ -35,6 +38,13 @@ namespace BaseCode
         public void TestFailedZone()
         {
             Assert.False(true);
+        }
+
+        [TearDown]
+        public void TearDown()
+        {
+            driver.Close();
+            driver.Quit();
         }
     }
 }
