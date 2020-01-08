@@ -2,13 +2,13 @@
   <MonoDevelop.Ide.ItemProperties.BaseCode PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="BaseCode/BaseTest.cs">
     <Files>
-      <File FileName="BaseCode/UnitTest1.cs" Line="13" Column="30" />
+      <File FileName="BaseCode/UnitTest1.cs" Line="33" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="BaseCode" expanded="True">
-            <Node name="BaseCode" expanded="True" selected="True" />
+            <Node name="BaseCode" selected="True" />
           </Node>
         </State>
       </Pad>
@@ -17,7 +17,9 @@
           <Node name="BaseCode" expanded="True">
             <Node name="BaseCode" expanded="True">
               <Node name="BaseCode" expanded="True">
-                <Node name="BaseTest" expanded="True" />
+                <Node name="BaseTest" expanded="True">
+                  <Node name="TestLogin" selected="True" />
+                </Node>
               </Node>
             </Node>
           </Node>
