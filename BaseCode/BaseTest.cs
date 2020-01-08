@@ -1,4 +1,6 @@
 using NUnit.Framework;
+using OpenQA.Selenium;
+using OpenQA.Selenium.Chrome;
 
 namespace BaseCode
 {
@@ -7,6 +9,8 @@ namespace BaseCode
         [SetUp]
         public void Setup()
         {
+            IWebDriver driver = new ChromeDriver();
+            driver.Navigate().GoToUrl();
         }
 
         [Test]
