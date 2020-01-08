@@ -1,22 +1,26 @@
-﻿<Properties>
-  <MonoDevelop.Ide.ItemProperties.BaseCode FirstBuild="True" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="BaseCode/UnitTest1.cs">
+﻿<Properties StartupConfiguration="{65CA6B3B-6FC1-4E5F-BA8A-3351351EFD17}|Default">
+  <MonoDevelop.Ide.ItemProperties.BaseCode PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BaseCode/BaseTest.cs">
     <Files>
-      <File FileName="BaseCode/UnitTest1.cs" Line="1" Column="1" />
+      <File FileName="BaseCode/UnitTest1.cs" Line="13" Column="30" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="BaseCode" expanded="True">
-            <Node name="BaseCode" expanded="True">
-              <Node name="UnitTest1.cs" selected="True" />
-            </Node>
+            <Node name="BaseCode" expanded="True" selected="True" />
           </Node>
         </State>
       </Pad>
       <Pad Id="MonoDevelop.UnitTesting.TestPad">
         <State name="__root__">
-          <Node name="BaseCode" expanded="True" selected="True" />
+          <Node name="BaseCode" expanded="True">
+            <Node name="BaseCode" expanded="True">
+              <Node name="BaseCode" expanded="True">
+                <Node name="BaseTest" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
         </State>
       </Pad>
     </Pads>

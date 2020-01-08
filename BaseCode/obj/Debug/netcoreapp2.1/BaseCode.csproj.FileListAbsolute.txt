@@ -1,0 +1,13 @@
+/Users/apple/Projects/BaseCode/BaseCode/bin/Debug/netcoreapp2.1/NUnit3.TestAdapter.dll
+/Users/apple/Projects/BaseCode/BaseCode/bin/Debug/netcoreapp2.1/NUnit3.TestAdapter.pdb
+/Users/apple/Projects/BaseCode/BaseCode/bin/Debug/netcoreapp2.1/nunit.engine.netstandard.dll
+/Users/apple/Projects/BaseCode/BaseCode/bin/Debug/netcoreapp2.1/BaseCode.deps.json
+/Users/apple/Projects/BaseCode/BaseCode/bin/Debug/netcoreapp2.1/BaseCode.runtimeconfig.json
+/Users/apple/Projects/BaseCode/BaseCode/bin/Debug/netcoreapp2.1/BaseCode.runtimeconfig.dev.json
+/Users/apple/Projects/BaseCode/BaseCode/bin/Debug/netcoreapp2.1/BaseCode.dll
+/Users/apple/Projects/BaseCode/BaseCode/bin/Debug/netcoreapp2.1/BaseCode.pdb
+/Users/apple/Projects/BaseCode/BaseCode/obj/Debug/netcoreapp2.1/BaseCode.csprojAssemblyReference.cache
+/Users/apple/Projects/BaseCode/BaseCode/obj/Debug/netcoreapp2.1/BaseCode.AssemblyInfoInputs.cache
+/Users/apple/Projects/BaseCode/BaseCode/obj/Debug/netcoreapp2.1/BaseCode.AssemblyInfo.cs
+/Users/apple/Projects/BaseCode/BaseCode/obj/Debug/netcoreapp2.1/BaseCode.dll
+/Users/apple/Projects/BaseCode/BaseCode/obj/Debug/netcoreapp2.1/BaseCode.pdb
